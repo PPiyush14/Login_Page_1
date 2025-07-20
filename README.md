@@ -36,7 +36,9 @@ Improve mobile responsiveness
 
 # INFO
 Piyush Rajvaidya
+<br>
 GitHub: @PPiyush14
+<br>
 Gmail:piyush.rajvaidya.btech2023#sitpune.edu.in
 
 
