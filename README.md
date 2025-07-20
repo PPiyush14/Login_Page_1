@@ -16,7 +16,7 @@ This is a simple and clean **Login Page** built using only **HTML** and **CSS**.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/login-page.git
+   https://github.com/PPiyush14/Login_Page_1.git
 2. Open index.html in your browser.
    No additional setup is needed. Pure frontend project.
 
